@@ -1,0 +1,20 @@
+# MATLAB
+# NOTE: .mat files are NOT ignored — this project ships .mat crack-data inputs.
+*.asv
+*.m~
+*.mex*
+slprj/
+sccprj/
+codegen/
+*.slxc
+octave-workspace
+
+# Generated run artifacts
+Results/
+*.gif
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
